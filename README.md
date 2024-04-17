@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @orvla90
-- 👀 I’m interested in lerning code to teach my students
-- 🌱 I’m currently learning google cloud
+
